@@ -6,7 +6,7 @@ public class kelimeyiTerstenYazma {
     String reversed = reverse(sentence);
     System.out.println("Tersine cevrilmis kelime: " + reversed);
   }
-
+ //özyinelemeli fonksiyonumuz
   public static String reverse(String sentence) {
     if (sentence.isEmpty())
       return sentence;
