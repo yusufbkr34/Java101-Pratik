@@ -1,4 +1,5 @@
 public class kelimeyiTerstenYazma {
+    // Özyinelemeyi Kullanarak Bir Cümleyi Tersine Çevirme
 
   public static void main(String[] args) {
     String sentence = "Go work";
