@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// İki sayı birbirinin kendisi hariç bölenleri toplamına eşitse bu sayılara arkadaş sayılar denir.
+
 public class arkadasSayiMi {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
